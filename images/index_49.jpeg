@@ -1,0 +1,1 @@
+{"error":"Invalid input from request (zod_error)","data":{"issues":[{"received":"undefined","code":"invalid_enum_value","options":["webp","png","jpeg","gif"],"path":["f"],"message":"Invalid enum value. Expected 'webp' | 'png' | 'jpeg' | 'gif', received 'undefined'"}],"name":"ZodError"}}
